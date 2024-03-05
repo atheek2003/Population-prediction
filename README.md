@@ -2,7 +2,7 @@
 
 This is a project which shows the statistical analysis of data of a given city and predicting the population using different models, which are
 
-1.Linear Regression
+1.Linear Regression /n
 2.Random Forest Regressor
 3.Gradient Boost Regressor
 4.Lasso Regression Model
