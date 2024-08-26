@@ -1,4 +1,4 @@
-# Population-prediction using Different ML Models 
+# Population-prediction of a State using Different ML Models 
 
 This is a project which shows the statistical analysis of data of a given city and predicting the population using different models, which are
 
